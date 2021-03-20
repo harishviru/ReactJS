@@ -23,7 +23,6 @@ function App() {
                 {/* Reseting form data */}
                 <FacebookForm5/>
 
-
                
     </div>
   );
